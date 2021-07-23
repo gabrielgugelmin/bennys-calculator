@@ -38,7 +38,7 @@ const getCosmeticsProducts = () => {
 
 const sumPrices = (products = products.cosmetics, ids) => {
   if (ids.length === 0) return;
-  console.log(ids);
+
   const intIds = ids.map(id => parseInt(id));
   const filteredProducts = products.filter(product =>
     intIds.includes(product.id)
