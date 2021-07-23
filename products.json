@@ -1,0 +1,158 @@
+{
+  "cosmetics": [
+    {
+      "id": 1,
+      "name": "Adesivos",
+      "price": 3000
+    },
+    {
+      "id": 2,
+      "name": "Aerofólio",
+      "price": 7500
+    },
+    {
+      "id": 3,
+      "name": "Buzina",
+      "price": 5000
+    },
+    {
+      "id": 4,
+      "name": "Capo",
+      "price": 7000
+    },
+    {
+      "id": 5,
+      "name": "Chassi (cada)",
+      "price": 7000
+    },
+    {
+      "id": 6,
+      "name": "Cor da roda",
+      "price": 2000
+    },
+    {
+      "id": 7,
+      "name": "Customização de rodas",
+      "price": 8000
+    },
+    {
+      "id": 8,
+      "name": "Escapamento",
+      "price": 7000
+    },
+    {
+      "id": 9,
+      "name": "Farol",
+      "price": 22000
+    },
+    {
+      "id": 10,
+      "name": "Fumaça roda",
+      "price": 2000
+    },
+    {
+      "id": 11,
+      "name": "Grade",
+      "price": 7000
+    },
+    {
+      "id": 12,
+      "name": "Hydraulics",
+      "price": 4000
+    },
+    {
+      "id": 13,
+      "name": "Interior (cada)",
+      "price": 7000
+    },
+    {
+      "id": 14,
+      "name": "Neon",
+      "price": 5500
+    },
+    {
+      "id": 15,
+      "name": "Placa",
+      "price": 3000
+    },
+    {
+      "id": 16,
+      "name": "Primaria e secundaria",
+      "price": 7000
+    },
+    {
+      "id": 17,
+      "name": "Pára-choque",
+      "price": 8000
+    },
+    {
+      "id": 18,
+      "name": "Pára-choque traseiro",
+      "price": 8000
+    },
+    {
+      "id": 19,
+      "name": "Rodas",
+      "price": 8000
+    },
+    {
+      "id": 20,
+      "name": "Saias",
+      "price": 7500
+    },
+    {
+      "id": 21,
+      "name": "Teto",
+      "price": 5000
+    },
+    {
+      "id": 22,
+      "name": "Vidros/Janela",
+      "price": 4000
+    }
+  ],
+  "performance": [
+    {
+      "name": "Freio",
+      "price": 65000
+    },
+    {
+      "name": "Motor",
+      "price": 80000
+    },
+    {
+      "name": "Suspensão",
+      "price": 50000
+    },
+    {
+      "name": "Transmissão",
+      "price": 70000
+    },
+    {
+      "name": "Turbo",
+      "price": 25000
+    },
+    {
+      "name": "combo",
+      "price": 270000
+    },
+    {
+      "name": "Blindagem completa",
+      "price": 500000
+    }
+  ],
+  "attendance": [
+    {
+      "name": "Manutenção na Oficina",
+      "price": 1000
+    },
+    {
+      "name": "Manutenção de Rua Até 2km",
+      "price": 2000
+    },
+    {
+      "name": "Manutenção de Rua + 2km",
+      "price": 2000
+    }
+  ]
+}
